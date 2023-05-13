@@ -21,3 +21,8 @@ Features demonstrated in the project:
     -   Inheritance (UnivMember class): +1
     -   Overloaded operator== and overloaded operator<< (in Course class): +2
     -   New dynamic objects (Course objects, professors vector): +2
+    
+    
+ As a warning, this code may not compile depending on which compiler you are using.
+ To compile this code i have used this line of code in the command terminal on mac:
+ g++ -std=c++11 -o UnivMemberDriver ID.cpp Name.cpp UnivMember.cpp Course.cpp UnivMemberDriver.cpp
