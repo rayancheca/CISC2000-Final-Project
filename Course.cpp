@@ -6,6 +6,7 @@
 */
 
 #include "Course.h"
+#include <algorithm>
 
 // Default constructor
 Course::Course() : subject(""), courseNumber(""), section(""),
