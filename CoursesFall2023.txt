@@ -1,0 +1,45 @@
+Subject	Course Number	Section	    Description	                                Hours       CRN	    Term	    Instructor                  Meeting Times	    Time
+CISC	1100	        R01	        Structures of Computer Science	            3	        10916	Fall 2023	"Seaton, Marlon A."	        "Monday,Thursday"	08:30AM 09:45AM
+CISC	1100	        R02	        Structures of Computer Science	            3	        40113	Fall 2023	"Seaton, Marlon A."	        "Tuesday,Thursday"	17:30PM 18:45PM
+CISC	1100	        R03     	Structures of Computer Science	            3	        49833	Fall 2023	"Pastine, Michael A."	    "Tuesday,Friday"	08:30AM 09:45AM
+CISC	1100	        R04	        Structures of Computer Science	            3	        10931	Fall 2023	"Pastine, Michael A."	    "Tuesday,Friday"	13:00PM 14:15PM
+CISC	1100	        R06	        Structures of Computer Science	            3	        11217	Fall 2023	TBD	                        "Monday,Thursday"	17:30PM 18:45PM
+CISC	1400	        R01	        Discrete Structures	                        4	        11222	Fall 2023	"Liu, Zigeng"	            "Tuesday,Friday"	11:30AM 12:45PM
+CISC	1400	        R02	        Discrete Structures	                        4	        40114	Fall 2023	"Liu, Zigeng"	            "Tuesday,Friday"	13:00PM 14:15PM
+CISC	1600	        R01	        Computer Science I	                        3	        49834	Fall 2023	"Trovato, Karen I."	        "Monday,Thursday"	11:30AM 12:45PM
+CISC	1600	        R02	        Computer Science I	                        3	        33074	Fall 2023	"Trovato, Karen I."	        "Tuesday,Friday"	10:00AM 11:15AM
+CISC	1600	        R03	        Computer Science I	                        3	        43030	Fall 2023	"Kounavelis, Nikitas P."	"Monday,Thursday"	16:00PM 17:15PM
+CISC	1600	        R04	        Computer Science I	                        3	        40115	Fall 2023	TBD	                        "Monday,Thursday"	11:30AM 12:45PM
+CISC	1600	        R06	        Computer Science I	                        3	        36373	Fall 2023	"Kounavelis, Nikitas P."	"Tuesday,Friday"	11:30AM 12:45PM
+CISC	1610	        R01	        Computer Science I Lab	                    1	        49835	Fall 2023	"Trovato, Karen I."	        Tuesday	            13:00PM 14:15PM
+CISC	1610	        R02	        Computer Science I Lab	                    1	        33079	Fall 2023	"Trovato, Karen I."	        Monday	            13:00PM 14:15PM
+CISC	1610	        R03	        Computer Science I Lab	                    1	        43031	Fall 2023	"Kounavelis, Nikitas P."	Thursday	        14:30PM 15:45PM
+CISC	1610	        R04	        Computer Science I Lab	                    1	        40116	Fall 2023	TBD	                        Wednesday	        14:30PM 15:45PM
+CISC	1610	        R06	        Computer Science I Lab	                    1	        36374	Fall 2023	"Kounavelis, Nikitas P."	Friday	            14:30PM 15:45PM
+CISC	1800	        R01	        Introduction to Computer Programming	    3	        45467	Fall 2023	"Toliyat, Amir"	            Wednesday	        14:30PM 17:00PM
+CISC	1810	        R01	        Introduction to Computer Programming Lab	1	        45468	Fall 2023	"Toliyat, Amir"	            Friday	            14:30PM 15:45PM
+CISC	2000	        R02	        Computer Science II	                        3	        33077	Fall 2023	"Toliyat, Amir"	            "Tuesday,Friday"	11:30AM 12:45PM
+CISC	2000	        R03	        Computer Science II	                        3	        36375	Fall 2023	"Toliyat, Amir"	            "Monday,Thursday"	06:00PM 17:15PM
+CISC	2010	        R02	        Computer Science II Lab                 	1	        33081	Fall 2023	"Toliyat, Amir"	             Wednesday	        11:30AM 12:45PM
+CISC	2010	        R03	        Computer Science II Lab	                    1	        36376	Fall 2023	"Toliyat, Amir"	             Wednesday	        13:00PM 14:15PM
+CISC	2100	        R01	        Discrete Structures II	                    3	        27200	Fall 2023	"Liu, Zigeng"	            "Tuesday,Friday"	10:00AM 11:15AM
+CISC	2100	        R02	        Discrete Structures II	                    3	        40117	Fall 2023	"Liu, Zigeng"	            "Monday,Thursday"	11:30AM 12:45PM
+CISC	2110	        R01	        Discrete Structures II Lab	                1	        27201	Fall 2023	"Liu, Zigeng"	             Wednesday	        10:00AM 11:15AM
+CISC	2110	        R02	        Discrete Structures II Lab	                1	        40118	Fall 2023	"Liu, Zigeng"	             Wednesday	        11:30AM 12:45PM
+CISC	2200	        R01	        Data Structures	                            4	        11231	Fall 2023	TBD	                        "Tuesday,Friday"	10:00AM 11:15AM
+CISC	2200	        R02	        Data Structures	                            4	        28460	Fall 2023	"Li, Yanjun"	            "Monday,Thursday"	14:30PM 15:45PM
+CISC	2350	        R01	        Information and Web Programming	            4	        49836	Fall 2023	"Toliyat, Amir"	            "Monday,Thursday"	17:30PM 18:45PM
+CISC	2500	        R01	        Information and Data Management	            4	        49837	Fall 2023	"Kounavelis, Nikitas P."	"Tuesday,Friday"	13:00PM 14:15PM
+CISC	2540	        R01	        Introduction to Video Game Design	        4	        45469	Fall 2023	"Biswas, Sharang"	        "Monday,Thursday"	16:00PM 17:15PM
+CISC	3500	        R01	        Database Systems	                        4	        11234	Fall 2023	"Chen, Sanchuan"	        "Monday,Thursday"	10:00AM 11:15AM
+CISC	3580	        R01	        Cybersecurity and Applications	            4	        33091	Fall 2023	TBD	                         Monday	            18:00PM 20:30PM
+CISC	3593	        R01	        Computer Organization	                    4	        21114	Fall 2023	"Trovato, Karen I."        	"Monday,Thursday"	10:00AM 11:15AM
+CISC	3595	        R01	        Operating Systems	                        4	        36380	Fall 2023	TBD	                        "Tuesday,Friday"	14:30PM 15:45PM
+CISC	3650	        R01	        Forensic Computing	                        4	        49838	Fall 2023	"Flatley, Stephen R."	     Monday	            18:00PM 20:30PM
+CISC	4001	        R01	        Computers and Robots in Film	            4	        33092	Fall 2023	TBD	                         Tuesday	        08:30AM 11:15AM
+CISC	4006	        R01	        Brains and Behavior in Beasts and Bots	    4	        49839	Fall 2023	"Lyons, Damian M."	        "Monday,Thursday"	14:30PM 15:45PM
+CISC	4080	        R01	        Computer Algorithms	                        4	        11236	Fall 2023	TBD	                        "Tuesday,Friday"	11:30AM 12:45PM
+CISC	4090	        R01	        Theory of Computation	                    4	        33094	Fall 2023	"Hsu, Derbiau F."	        "Monday,Thursday"	10:00AM 11:15AM
+CISC	4615	        R01	        Data Communications and Networks	        4	        11237	Fall 2023	TBD	                        "Tuesday,Friday"	14:30PM 15:45PM
+CISC	4631	        R01	        Data Mining	                                4	        33095	Fall 2023	"Bhuiyan, Zakirul Alam"	    "Monday,Thursday"	16:00PM 17:15PM
+CISC	4650	        R01	        Cyberspace: Issues and Ethics	            4	        40121	Fall 2023	TBD	                        "Tuesday,Friday"	13:00PM 14:15PM
